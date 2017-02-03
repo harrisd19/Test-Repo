@@ -1,5 +1,3 @@
 # Test-Repo
 Just our first test
-
-
-Mario Sobrino
+John Polich
